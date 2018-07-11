@@ -1,0 +1,4 @@
+matplotlib
+jupyter
+git+https://github.com/udacity/udacidrone.git
+git+https://github.com/facebookresearch/visdom.git
